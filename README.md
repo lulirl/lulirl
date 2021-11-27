@@ -19,6 +19,10 @@
 
 - 📫 How to reach me **lruedalaje@gmail.com**
 
+- 👨‍💻 Pokemon project developed for Henry’s Bootcamp 🚀. [https://www.linkedin.com/posts/luciaruedalaje_javascriptdeveloper-react-frontend-activity-6867077811421626368-jcv5](https://www.linkedin.com/posts/luciaruedalaje_javascriptdeveloper-react-frontend-activity-6867077811421626368-jcv5)
+
+- 📝 It is also deployed at https://lnkd.in/dsVEThs6
+
 - ⚡ Fun fact **I am also a lawyer!**
 
 <h3 align="left">Connect with me:</h3>

@@ -24,7 +24,7 @@
 
 - 📝 It is also deployed at https://lnkd.in/dsVEThs6
 
-- ⚡ 📜 Fun fact **I am also a lawyer!**
+- ⚡ Fun fact **I am also a lawyer!📜 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

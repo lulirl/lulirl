@@ -3,7 +3,7 @@
 <h1 align="center"> I'm Lucia ✨</h1>
 <h3 align="center">A passionate web full stack developer from Argentina 🇦🇷!</h3>
 
-- 🔭 I’m currently working with react native on a cycling app 🚴. It records your ride, monitors your training and keeps track of you ride stats as you travel.
+- 🔭 I’m currently working with react native on a cycling app 🚴. It records your ride, monitors your training and keeps track of your ride stats as you travel.
 
 - 🌱 I’m learning more and more about react native!
 
